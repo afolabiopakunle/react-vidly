@@ -1,0 +1,16 @@
+import React, {Component} from 'react';
+
+class Movies extends Component {
+    state = {
+
+    }
+    render() {
+        return (
+          <table className='table table-striped'>
+
+          </table>
+        );
+    }
+}
+
+export default Movies;
